@@ -33,6 +33,6 @@ public class Main {
         //frame.setLayout(null);
         frame.setVisible(true);
         frame.add(label);
-        frame.pack(); //run after frame.add(label)
+        frame.pack(); //run after frame.add(label).
     }
 }
